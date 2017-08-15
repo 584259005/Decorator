@@ -2,7 +2,7 @@
 public class Espresso extends Beverage {
 
 	public Espresso(){
-		description ="Espresso";
+		description ="Espresso Coffee";
 	}
 	
 	@Override
